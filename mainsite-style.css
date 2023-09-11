@@ -1,9 +1,10 @@
 body {
-  background-color: #ff6347;
+  background-color: #007f0e;
 }
 
 h1 {
-  color: white;
+  font-family: verdana;
+  color: #ff6347;
   text-align: center;
 }
 
