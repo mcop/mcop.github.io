@@ -17,6 +17,8 @@ p {
   width: 100%;
   position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
   height: 40px;
   background-color: #e30615;
 }
