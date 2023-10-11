@@ -13,3 +13,10 @@ p {
   color: #ffffff;
   font-size: 20px;
 }
+.menu-bar {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  height: 40px;
+  background-color: #e30615;
+}
