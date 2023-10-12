@@ -83,7 +83,7 @@ padding-left: 10%;
   margin: 0; /* Important for vertical align on mobile phones */
 }
 
-.dropbtn-link {
+.dropdown .dropbtn-link {
   font-size: 16px;
   border: none;
   outline: none;
