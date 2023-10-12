@@ -23,9 +23,9 @@ p {
   right: 0;
   height: 50px;
   background-color: #007f0e;
-  border-bottom-width: 20px;
+  /*border-bottom-width: 20px;
   border-botom-style: solid;
-  border-bottom-color: #ffffff;
+  border-bottom-color: #ffffff; */
 }
 
 .page-content {
@@ -41,7 +41,7 @@ padding-left: 10%;
 .navbar {
   overflow: hidden;
   background-color: #007f0e;
-  font-family: Arial;
+  font-family: verdana;
 
 }
 
