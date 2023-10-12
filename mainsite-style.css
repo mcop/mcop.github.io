@@ -72,23 +72,12 @@ padding-left: 10%;
 }
 
 /* Dropdown button */
-.dropdown {
+.dropdown .dropbtn {
   font-size: 16px;
   border: none;
   outline: none;
   color: white;
   padding: 14px 16px;
-  background-color: inherit;
-  font-family: inherit; /* Important for vertical align on mobile phones */
-  margin: 0; /* Important for vertical align on mobile phones */
-}
-
-.dropbtn {
-  font-size: 16px;
-  border: none;
-  outline: none;
-  color: white;
-  padding: 0;
   background-color: inherit;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
@@ -101,7 +90,6 @@ padding-left: 10%;
   color: white;
   padding: 0;
   background-color: inherit;
-  /*background-color: #ff6347;*/
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
 }
@@ -110,9 +98,6 @@ padding-left: 10%;
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: #ff6347;
 }
-/*.navbar a:hover, .dropdown:hover .dropbtn .dropbtn-link {
-  background-color: #ff6347;
-}*/
 
 /* Dropdown content (hidden by default) */
 .dropdown-content {
