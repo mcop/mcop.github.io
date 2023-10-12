@@ -78,8 +78,7 @@ padding-left: 10%;
   outline: none;
   color: white;
   padding: 14px 16px;
-  /*background-color: inherit;*/
-  background-color: #ff6347;
+  background-color: inherit;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
 }
@@ -90,15 +89,19 @@ padding-left: 10%;
   outline: none;
   color: white;
   padding: 0;
-  background-color: inherit;
+  /*background-color: inherit;*/
+  background-color: #ff6347;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
 }
 
 /* Add a background color to navbar links on hover */
-.navbar a:hover, .dropdown:hover .dropbtn .dropbtn-link {
+.navbar a:hover, .dropdown:hover .dropbtn {
   background-color: #ff6347;
 }
+/*.navbar a:hover, .dropdown:hover .dropbtn .dropbtn-link {
+  background-color: #ff6347;
+}*/
 
 /* Dropdown content (hidden by default) */
 .dropdown-content {
