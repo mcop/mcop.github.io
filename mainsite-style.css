@@ -24,6 +24,7 @@ p {
   height: 50px;
   background-color: #007f0e;
   border-bottom-width: 20px;
+  border-botom-style: solid;
   border-bottom-color: #ffffff;
 }
 
