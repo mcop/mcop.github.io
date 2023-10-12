@@ -95,7 +95,7 @@ padding-left: 10%;
 }
 
 /* Add a background color to navbar links on hover */
-.navbar a:hover, .dropdown:hover .dropbtn {
+.navbar a:hover, .dropdown:hover .dropbtn .dropbtn-link {
   background-color: #ff6347;
 }
 
