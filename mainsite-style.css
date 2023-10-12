@@ -83,6 +83,17 @@ padding-left: 10%;
   margin: 0; /* Important for vertical align on mobile phones */
 }
 
+.dropbtn-link {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 0;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
 /* Add a background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: #ff6347;
