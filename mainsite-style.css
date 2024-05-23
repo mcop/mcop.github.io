@@ -37,7 +37,7 @@ padding-bottom: 50px;
 padding-left: 5%;
 padding-right: 10%;
 padding-top: 60px;
-
+clear: left;
 }
 
 .page-side {
@@ -46,7 +46,7 @@ float: left;
 position: fixed;
 padding-left: 10%;
 padding-top: 60px;
-
+clear: left;
 }
 
 .menu-bar-content {
