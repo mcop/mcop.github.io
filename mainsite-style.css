@@ -31,10 +31,24 @@ p {
 }
 
 .page-content {
-padding-left: 10%;
-padding-top: 8%;
-width: 65%;
+width: 500px;
+float: right;
+padding-bottom: 50px;
+padding-left: 5%;
+padding-right: 10%;
+padding-top: 60px;
+
 }
+
+.page-side {
+width: 300px;
+float: left;
+position: fixed;
+padding-left: 10%;
+padding-top: 60px;
+
+}
+
 .menu-bar-content {
 padding-left: 10%;
 }
