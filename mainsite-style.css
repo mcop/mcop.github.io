@@ -35,25 +35,28 @@ p {
 margin-top: 60px;
 width: 100%;
 clear: both;
+padding-left: 10%;
+padding-right: 10%;
 }
 
 .page-content {
-width: 500px;
+width: 50%;
+margin-left: 10px;
 float: right;
 padding-bottom: 50px;
-padding-left: 5%;
-padding-right: 10%;
+/*padding-left: 5%;*/
+/*padding-right: 10%;*/
 /*padding-top: 60px;*/
-clear: left;
+/*clear: left;*/
 }
 
 .page-side {
-width: 300px;
+width: 25%;
 float: left;
 position: fixed;
-padding-left: 10%;
+/*padding-left: 10%;*/
 /*padding-top: 60px;*/
-clear: left;
+/*clear: left;*/
 }
 
 .menu-bar-content {
