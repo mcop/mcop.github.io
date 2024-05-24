@@ -27,8 +27,10 @@ h2 {
 h3 {
   /*font-family: verdana;*/
   font-size: 1.25em;
-  color: #ff6347;
+  /*color: #ff6347;*/
+  background-color: #ff6347;
   text-align: left;
+  padding: 2px;
 }
 
 p {
