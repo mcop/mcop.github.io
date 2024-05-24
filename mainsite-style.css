@@ -176,3 +176,8 @@ padding-left: 10%;
   height: 40px;
   background-color: #e30615;
 }*/
+
+.pagewrap-image{
+object-fit: contain;
+
+}
