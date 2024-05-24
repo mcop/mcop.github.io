@@ -18,7 +18,7 @@ h1 {
   background-color: #ff6347;
   text-align: left;
   padding: 2px;
-  border-bottom: 5px solid #007f0e;  
+  border-bottom: 2px solid #007f0e;  
 }
 
 h2 {
@@ -29,6 +29,7 @@ h2 {
   background-color: #ff6347;
   text-align: left;
   padding: 2px;
+  border-bottom: 2px solid #007f0e;  
 }
 
 h3 {
@@ -39,6 +40,7 @@ h3 {
   background-color: #ff6347;
   text-align: left;
   padding: 2px;
+  border-bottom: 2px solid #007f0e;  
 }
 
 p {
