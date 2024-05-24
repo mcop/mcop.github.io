@@ -55,7 +55,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  colour: white;
+  colour: #ffffff;
   background-color: #ff6347;
   padding: 2px;
   text-decoration: none;
