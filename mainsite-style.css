@@ -40,8 +40,7 @@ padding-right: 10%;
 }
 
 .page-content {
-flex-direction: column;
-flex-basis: 75%;
+column-width: 50%;
 /*width: 50%;*/
 /*margin-right: 20%;*/
 /*float: right;*/
@@ -53,8 +52,7 @@ flex-basis: 75%;
 }
 
 .page-side {
-flex-direction: column;
-flex-basis: 25%;
+column-width: 25%;
 /*width: 25%;*/
 float: left;
 position: fixed;
