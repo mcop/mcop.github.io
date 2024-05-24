@@ -48,6 +48,19 @@ p {
   color: #ffffff;
   font-size: 1em;
 }
+
+a:link, a:visited {
+  color:  #ff6347;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  colour: white;
+  background-color: #ff6347;
+  padding: 2px;
+  text-decoration: none;
+}
+
 .menu-bar {
   width: 100%;
   position: fixed;
