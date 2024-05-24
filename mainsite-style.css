@@ -180,6 +180,9 @@ padding-left: 10%;
 .pagewrap-image{
 max-width: 100%;
 height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
 margin: 0;
 padding: 0;
 border: 0;
