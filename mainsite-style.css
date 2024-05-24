@@ -181,29 +181,17 @@ padding-left: 10%;
 max-width: 100%;
 height: auto;
 display: block;
-margin-left: auto;
-margin-right: auto;
-/*margin: 0;*/
+margin: 0;
 padding: 0;
 border: 0;
 }
-.pagewrap-image-left{
-max-width: 100%;
-height: auto;
-display: block;
-margin-left: 0;
-margin-right: auto;
-/*margin: 0;*/
-padding: 0;
-border: 0;
-}
-.pagewrap-image-right{
+.pagewrap-image-centre{
 max-width: 100%;
 height: auto;
 display: block;
 margin-left: auto;
-margin-right: 0;
-/*margin: 0;*/
+margin-right: auto;
 padding: 0;
 border: 0;
 }
+
