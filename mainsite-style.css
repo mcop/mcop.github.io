@@ -53,6 +53,7 @@ a:link, a:visited {
   font-size: 1em;
   color:  #ff6347;
   text-decoration: none;
+  padding: 2px;
 }
 
 a:hover, a:active {
