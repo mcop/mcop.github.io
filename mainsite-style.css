@@ -10,6 +10,7 @@ body {
   background-image: url("/images/tile-3.jpg");
   background-repeat: repeat;
   background-position: center;
+  background-attachment: fixed;  
   background-color: DarkGreen;
 }
 
