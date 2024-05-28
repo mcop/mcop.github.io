@@ -53,6 +53,18 @@ p {
   font-size: 1em;
 }
 
+ul {
+  /*font-family: verdana;*/
+  color: #ffffff;
+  font-size: 1em;
+}
+
+ol {
+  /*font-family: verdana;*/
+  color: #ffffff;
+  font-size: 1em;
+}
+
 a:link, a:visited {
   font-size: 1em;
   color:  #ff6347;
