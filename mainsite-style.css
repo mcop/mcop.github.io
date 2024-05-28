@@ -36,7 +36,7 @@ h2 {
   background-color: #ff6347;
   text-align: left;
   padding: 2px;
-  border-bottom: 2px solid #0060df;  
+  border-bottom: 2px solid #3399cc;  
 }
 
 h3 {
@@ -47,7 +47,7 @@ h3 {
   background-color: #ff6347;
   text-align: left;
   padding: 2px;
-  border-bottom: 2px solid #0060df;  
+  border-bottom: 2px solid #3399cc;  
 }
 
 p {
@@ -98,7 +98,7 @@ ol {
   /*border-top-width: 0;*/
   border-bottom-width: 2px;
   border-bottom-style: solid;
-  border-bottom-color: #0060df;
+  border-bottom-color: #3399cc;
 }
 
 .pagewrap {
