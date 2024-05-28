@@ -95,9 +95,9 @@ ol {
   height: 50px;
   background-color: #007f0e;
   /*padding-bottom: 60px;*/
-  border-top-width: 0;
+  /*border-top-width: 0;*/
   border-bottom-width: 5px;
-  border-botom-style: solid;
+  border-bottom-style: solid;
   border-bottom-color: #ffffff;
 }
 
