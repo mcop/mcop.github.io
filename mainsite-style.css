@@ -115,7 +115,8 @@ float: left;
 /*margin-right: 1%;*/
 position: fixed;
 overflow: hidden;
-margin: 10px;
+margin-right: 10px;
+margin-left: 0;
 padding: 10px;
 border: 0;
 /*padding-left: 10%;*/
