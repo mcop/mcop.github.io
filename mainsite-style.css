@@ -70,7 +70,9 @@ ol {
 
 a:link, a:visited {
   font-size: 1em;
-  color:  #ff6347;
+  /*color:  #ff6347;*/
+  color: #ffffff;
+  background-color: #007f0e; 
   text-decoration: none;
   padding: 2px;
 }
